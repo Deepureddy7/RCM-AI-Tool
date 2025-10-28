@@ -1,0 +1,6 @@
+streamlit>=1.18
+openai>=0.27
+tiktoken
+rapidfuzz
+PyPDF2
+pandas
